@@ -1,0 +1,18 @@
+.player div.timeline {
+    width: 300px;
+    height: 5px;
+    background: #727272;
+    border-radius: 20px;
+    margin: 0 5%;
+}
+.timeline .progress {
+    width: 40%;
+    height: 5px;
+    background: #f4f4f4;
+    border-radius: 20px;
+}
+.timeline .progress:hover {
+    width: 40%;
+    height: 5px;
+    background: #1db954;
+}
